@@ -5,9 +5,23 @@ isort
 jupyterlab
 matplotlib
 notebook
-numpy
-pandas
 pip
 python-dotenv
+pyyaml
+joblib
+psutil
+numpy
+pandas
+scipy
+tqdm
 scikit-learn
+duckdb
+torch
+torchvision
+timm
+mamba-ssm
+transformers
+albumentations
+albumentations[imgaug]
+fastparquet
 -e .
