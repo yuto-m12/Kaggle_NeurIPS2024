@@ -5,6 +5,7 @@
 </a>
 
 For Kaggle NeurIPS competition
+Main files are in the neurips directory.
 
 ## Project Organization
 
