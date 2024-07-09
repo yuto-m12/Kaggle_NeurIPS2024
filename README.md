@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-For Kaggle NeurIPS competition
+For Kaggle NeurIPS competition. <br>
 Main files are in the neurips directory.
 
 ## Project Organization
