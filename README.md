@@ -1,13 +1,7 @@
 # NeurIPS
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
-
 For [Kaggle NeurIPS competition](https://www.kaggle.com/competitions/leash-BELKA/overview). <br>
-Main files are in the [neurips directory](https://github.com/yuto-m12/Kaggle_NeurIPS2024/tree/main/neurips). <br>
-
-I created a summary of this competition: [Summary](https://zenn.dev/yuto_mo/articles/4e417f4ec45f22)
+The main files are in the [neurips directory](https://github.com/yuto-m12/Kaggle_NeurIPS2024/tree/main/neurips). <br>
 
 ## Project Organization
 
